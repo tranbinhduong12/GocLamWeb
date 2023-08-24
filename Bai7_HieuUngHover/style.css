@@ -1,0 +1,67 @@
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0;
+}
+
+.main-contain {
+    width: 900px;
+    background-color: #f3f3f3;
+    margin: 10px;
+    margin-bottom: 50px;
+
+}
+
+/* khoi-tin-chinh */
+article.tin {
+    padding: 10px;
+    background-color: #ffffff;
+    width: 880px;
+    display: block;
+}
+.hinh {
+    width: 100%;
+}
+.link-img {
+    display: block;
+    margin-bottom: 5px;
+}
+.main-contain h3 {
+    color: white;
+    background-color: red;
+    width: 5%;
+}
+.link-new {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link-new:hover {
+    color: red;
+}
+
+/* khoi-tin-nho */
+div.tin-phu {
+    width: 280px;
+    float: left;
+    margin-right: 12px;
+}
+.time {
+    color: red;
+    font-style: italic;
+}
+
+/* video-youtube */
+.tieu-de {
+    color: red;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 3px solid red;
+}
+.video-ytb {
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+.khoi-tong {
+    border: 1px solid;
+    width: 1200px;
+
+}
+
+.khoi {
+    background-color: #FFFFFF;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    width: 960px;
+    height: 400px;
+    border-bottom: 1px solid gray;
+}
+.doan {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+.img-home {
+    float: left;
+    width: 200px;
+    margin-right: 20px;
+}

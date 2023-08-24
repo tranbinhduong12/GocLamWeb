@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Helvetica;
+    src: url(/Bai10_SuDungFont/font/Helvetica-Font/Helvetica-Bold.ttf);
+}
+
+.font-1 {
+    font-family: Helvetica;
+}
+.font-google {
+    font-family: 'Roboto', sans-serif;
+}

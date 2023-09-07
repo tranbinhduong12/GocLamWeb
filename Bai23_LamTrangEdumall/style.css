@@ -26,6 +26,7 @@ body{
     overflow: hidden;
     border-radius: 10px;
     box-shadow: #000000c7 4px 4px 10px;
+    top: 0;
     transition: 0.6s;
 }
 .block a{
@@ -57,6 +58,6 @@ body{
 }
 
 .block:hover {
-    top: -5px;
+    top: -10px;
     transition: 0.6s;
 }

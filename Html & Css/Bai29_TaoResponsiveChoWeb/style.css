@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+@media (max-width: 1200px) {
+
+    .main img{
+        width: 400px;
+        height: auto;
+    }
+}
+@media (max-width: 400px) {
+
+    .main img{
+        width: 200px;
+        height: auto;
+    }
+}
+/* .main {
+    width: 500px;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+}
+.main img{
+    width: 100%;
+    height: auto;
+} */
